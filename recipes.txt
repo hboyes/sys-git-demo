@@ -3,5 +3,6 @@ welcome to the restaurant
 Pasta
 Chicken
 Pizza
+Chips
 
 Thank you :)
